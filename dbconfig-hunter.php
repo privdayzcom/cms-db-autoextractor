@@ -1,7 +1,7 @@
 <?php
 /*
 * PRIVDAYZ GLOBAL DB CONFIG HUNTER – FINAL MERGED 2025
-* github.com/privdayz/db-config-hunter
+* github.com/privdayzcom/cms-db-autoextractor
 * - Recursively scans ALL dirs under selected root (not just fixed paths)
 * - Finds and extracts only true DB config files from the world’s popular scripts
 */
