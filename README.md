@@ -1,6 +1,7 @@
 # 🌀 Privdayz DB Config Hunter (Xplorer Edition)
-### 🔍 Minimalist, Next-Gen DB Config Extractor for Professionals  
-[privdayz.com](https://privdayz.com) • [Demo Screenshot](#)
+### 🔍 One-file PHP DB config/credential extractor – scans any dir for world CMS configs, auto parses DB creds (user, pass, host), AJAX, upload, 100% dark/minimal. Shell, audit, red team, backup, C2, privilege escalation, pentest tool. No logs, anti-waf, instant results.
+![privdayz db config](dbconfig.jpg)
+[privdayz.com](https://privdayz.com) 
 
 ---
 
@@ -62,12 +63,6 @@ Supports all common web apps and CMS, including but not limited to:
 6. Use **X / Del** at the bottom for instant self-removal.
 
 > **No passwords are stored or logged. Everything is local, no external calls, no telemetry.**
-
----
-
-## 📦 Screenshot
-
-![Minimalist dark UI: sample scan](https://i.imgur.com/your_sample_img.png)
 
 ---
 
