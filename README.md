@@ -1,5 +1,18 @@
 # 🌀 Privdayz DB Config Hunter (Xplorer Edition)
-### 🔍 One-file PHP DB config/credential extractor – scans any dir for world CMS configs, auto parses DB creds (user, pass, host), AJAX, upload, 100% dark/minimal. Shell, audit, red team, backup, C2, privilege escalation, pentest tool. No logs, anti-waf, instant results.
+### 🔍 One-file PHP DB config/credential extractor – scans any dir for world CMS configs, auto parses DB creds (user, pass, host), AJAX, upload, 100% dark/minimal.
+
+[![One File](https://img.shields.io/badge/one--file-true-181926?style=flat-square&logo=php&logoColor=white)](https://github.com/privdayz/dbconfig-xplorer)
+[![PHP](https://img.shields.io/badge/php-%3E=7.1-202535?style=flat-square&logo=php&logoColor=7babe6)](https://www.php.net/)
+[![Dark UI](https://img.shields.io/badge/dark--ui-100%25-1a202d?style=flat-square&logo=visualstudiocode&logoColor=white)](#)
+[![AJAX](https://img.shields.io/badge/ajax-live-181926?style=flat-square&logo=javascript&logoColor=7babe6)](#)
+[![Anti-WAF](https://img.shields.io/badge/anti--waf-passed-232939?style=flat-square&logo=shield&logoColor=white)](#)
+[![Red Team](https://img.shields.io/badge/red--team-compatible-232435?style=flat-square&logo=protonvpn&logoColor=white)](#)
+[![Shell Safe](https://img.shields.io/badge/shell--safe-yes-353848?style=flat-square&logo=gnu-bash&logoColor=white)](#)
+[![Privilege Escalation](https://img.shields.io/badge/priv--esc-support-212230?style=flat-square&logo=hackthebox&logoColor=white)](#)
+[![SEO Hacking](https://img.shields.io/badge/seo--hacking-auto-212230?style=flat-square&logo=googlechrome&logoColor=68b8fa)](#)
+[![License: MIT](https://img.shields.io/github/license/privdayz/dbconfig-xplorer?color=232939&style=flat-square)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/privdayz/dbconfig-xplorer?color=7babe6&style=flat-square)](https://github.com/privdayz/dbconfig-xplorer/issues)
+[![GitHub stars](https://img.shields.io/github/stars/privdayz/dbconfig-xplorer?style=flat-square&color=202535)](https://github.com/privdayz/dbconfig-xplorer/stargazers)
 ![privdayz db config](dbconfig.jpg)
 [privdayz.com](https://privdayz.com) 
 
